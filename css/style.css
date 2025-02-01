@@ -177,6 +177,7 @@ img {
   min-width: 169px;
   height: 56px;
   margin: 0 auto;
+  background-color: 250ms cubic-bezier(0.4, 0, 0.2, 1);
 }
 .banner-btn:hover {
   background-color: #404bbf;
@@ -247,8 +248,8 @@ img {
   box-sizing: border-box;
   border: 1px solid #8e8f99;
   border-radius: 4px;
-  width: 250px;
-  height: 120px;
+  width: 264px;
+  height: 112px;
   background: var(--cloud, #f4f4fd);
   text-align: center;
   margin-bottom: 8px;
