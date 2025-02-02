@@ -490,7 +490,7 @@ img {
   margin-bottom: 16px;
 }
 .footer a {
-  display: inline-block;
+  display: flex;
   text-decoration: none;
   color: #4d5ae5;
 }
